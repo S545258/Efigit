@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-this is to find difference
-=======
 Hello world
-This is Rithesh 
->>>>>>> d5c40e78d0284d00acaf2ee983ede03459128360
+This is Rithesh!
+
